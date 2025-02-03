@@ -10,9 +10,9 @@ namespace NamespaceExample
     {
         public int Num { get; }
 
-        public SampleClass(int n)
+        public SampleClass(int num)
         {
-            Num = n;
+            Num = num;
         }
     }
 }
