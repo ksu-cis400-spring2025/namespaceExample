@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace NamespaceExample
 {
-    public class SampleClass
+    public class Test
     {
-        public int Num { get; }
-
-        public SampleClass(int num)
-        {
-            Num = num;
-        }
     }
 }
